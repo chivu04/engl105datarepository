@@ -8,4 +8,4 @@ This data set comes from County Health Data Set, which includes the number of pr
 
 The purpose of creating this repository is to filter and index data to compare percentage of people who have obesity in regions West and South using Python.
 
-![percentage-of-adult-obesity-by-state](https://user-images.githubusercontent.com/118301706/202996782-5b6d379f-df00-41b5-af38-5b544ac7403c.png)
+![percentage-of-adult-obesity-by-state](https://user-images.githubusercontent.com/118301706/202997593-91a82f68-cd3e-410e-8b21-d6e4a71ec9d4.png)
