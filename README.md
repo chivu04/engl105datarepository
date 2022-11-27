@@ -6,4 +6,4 @@ This data set comes from County Health Data Set, which includes the number of pr
 
 The purpose of creating this repository is to filter and index data to compare percentage of people who have obesity by state. In this visualization, each state is colored according to the range of percentage people with obesity, from less than 0.26 to more than 0.4.
 
-(https://user-images.githubusercontent.com/118301706/202997593-91a82f68-cd3e-410e-8b21-d6e4a71ec9d4.png)
+![percentage-of-adult-obesity-by-state](https://user-images.githubusercontent.com/118301706/204125375-cb275ebc-e91e-4eff-90f5-c6147e2cd82e.png)
