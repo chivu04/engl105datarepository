@@ -3,7 +3,7 @@
 ## About
 This is a repository created for Professor Gotzler's ENGL 105 class in Fall 2022 at the University of North Carolina at Chapel Hill. 
 
-The repository contains an original data set, a final data subset, and Python notebook that documents the process of creating your own data subset from a publicly available dataset using Python.
+The repository contains an original data set, a final data subset (located in the "Data" folder) and a Python notebook (titled "Data Compilation Process") that documents the process of creating your own data subset from a publicly available dataset using Python.
 
 ## Acknowledgments
 The tutorials from the Data Compilation notebook have been adapted from materials provided by the excellent staff at the Davis Library Research Hub.
